@@ -26,7 +26,7 @@ const lcLinks = [
         title: "LC Edu - Thí nghiệm dao động điều hòa Vật Lý 11",
         description: "Phòng thí nghiệm ảo bài học dao động điều hòa và năng lượng môn Vật Lý lớp 11 - EduND",
         url: "/ndlabs/edu/vatly/11/thi-nghiem-dao-dong-dieu-hoa/v1",
-        image: "https://ndsite.web.app/assets/images/logo.png",
+        image: "https://lceduvn.github.io/LCEdu_Logo.svg",
         
         color: "#EEF7ED",
         textColor: "#0075F1",
@@ -39,9 +39,9 @@ const lcLinks = [
     
     {
         title: "LC Edu - Thư viện thuộc tính thương hiệu | Thiết kế bởi ND Labs",
-        description: "Thư viện thuộc tính thương hiệu của CL Edu phát triển bởi Châu Nhật Đăng và Lương Trung Nguyên - Thiết kế bởi ND Labs",
-        url: "/ndlabs/tool/cledu-thu-vien-thuoc-tinh-thuong-hieu/v1",
-        image: "https://ndsite.web.app/assets/images/logo.png",
+        description: "Thư viện thuộc tính thương hiệu của LC Edu phát triển bởi Châu Nhật Đăng và Lương Trung Nguyên - Thiết kế bởi ND Labs",
+        url: "/thu-vien-thuoc-tinh-thuong-hieu/v1",
+        image: "https://lceduvn.github.io/LCEdu_Logo.svg",
 
         color: "#EAF5FF",
         textColor: "#0068D9",
@@ -55,8 +55,8 @@ const lcLinks = [
     {
         title: "LC Edu - Kế hoạch phát triển | Thiết kế bởi ND Labs",
         description: "Kế hoạch phát triển của LC Edu phát triển bởi Châu Nhật Đăng và Lương Trung Nguyên - Thiết kế bởi ND Labs",
-        url: "/ndlabs/tool/cledu-ke-hoach-phat-trien/v1",
-        image: "https://ndsite.web.app/assets/images/logo.png",
+        url: "ke-hoach-phat-trien-lcedu/v1",
+        image: "https://lceduvn.github.io/LCEdu_Logo.svg",
 
         color: "#EAF5FF",
         textColor: "#0068D9",
