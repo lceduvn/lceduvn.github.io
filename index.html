@@ -575,8 +575,8 @@
     function renderLinks() {
 
         if (
-            !Array.isArray(ndLinks) ||
-            ndLinks.length === 0
+            !Array.isArray(lcLinks) ||
+            lcLinks.length === 0
         ) {
 
             container.innerHTML = `
@@ -601,7 +601,7 @@
 
 
         container.innerHTML =
-            ndLinks.map(
+            lcLinks.map(
                 item => {
 
                     const title =
